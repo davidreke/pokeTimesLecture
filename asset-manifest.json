@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pokeTimesLecture/static/css/main.a70f5d9a.chunk.css",
+    "main.js": "/pokeTimesLecture/static/js/main.7224c9ff.chunk.js",
+    "main.js.map": "/pokeTimesLecture/static/js/main.7224c9ff.chunk.js.map",
+    "runtime-main.js": "/pokeTimesLecture/static/js/runtime-main.f61216cd.js",
+    "runtime-main.js.map": "/pokeTimesLecture/static/js/runtime-main.f61216cd.js.map",
+    "static/js/2.a645739e.chunk.js": "/pokeTimesLecture/static/js/2.a645739e.chunk.js",
+    "static/js/2.a645739e.chunk.js.map": "/pokeTimesLecture/static/js/2.a645739e.chunk.js.map",
+    "index.html": "/pokeTimesLecture/index.html",
+    "precache-manifest.7cfada5d2ea142e7725b06cd7f055a17.js": "/pokeTimesLecture/precache-manifest.7cfada5d2ea142e7725b06cd7f055a17.js",
+    "service-worker.js": "/pokeTimesLecture/service-worker.js",
+    "static/css/main.a70f5d9a.chunk.css.map": "/pokeTimesLecture/static/css/main.a70f5d9a.chunk.css.map",
+    "static/js/2.a645739e.chunk.js.LICENSE.txt": "/pokeTimesLecture/static/js/2.a645739e.chunk.js.LICENSE.txt",
+    "static/media/pokeball.png": "/pokeTimesLecture/static/media/pokeball.f10bf078.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f61216cd.js",
+    "static/js/2.a645739e.chunk.js",
+    "static/css/main.a70f5d9a.chunk.css",
+    "static/js/main.7224c9ff.chunk.js"
+  ]
+}
